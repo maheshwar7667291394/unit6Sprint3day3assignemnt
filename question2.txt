@@ -1,0 +1,15 @@
+Q2/- How many scopes are there for a Spring Bean, which is the default scope for a Spring
+Bean? Explain with an example
+
+
+there are four types of scope 
+1. singleton scope
+2. prototype scope
+3. request scope
+4. session scope
+
+
+by default is singletone scope
+ sice by default it create unic object for same class
+
+

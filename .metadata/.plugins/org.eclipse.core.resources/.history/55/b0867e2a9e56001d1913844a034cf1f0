@@ -1,0 +1,9 @@
+package com.masai;
+
+public class A {
+	
+	public void funA() {
+		System.err.println("inside funA of A class");
+	}
+
+}

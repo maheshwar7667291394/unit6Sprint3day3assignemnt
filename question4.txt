@@ -1,0 +1,10 @@
+Q4/- What is auto wiring in Spring, how many types of Auto wiring are there in spring,
+explain with an example.
+
+
+autowiring means pojo class aotomaticly register with spring conatainer and redy to excute any type of logic
+three type of autowiring
+1.byname
+2.by type
+3.be constructor
+

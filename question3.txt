@@ -1,0 +1,13 @@
+Q3/- What is the difference between setter injection and constructor injection?
+
+constructru=or injection :-
+It doesn’t allow to create circular dependency.
+Constructor-based DI fixes the order in which the dependencies need to be injected.
+
+
+seter injection Point:-
+It doesn’t check the circular dependency.
+Setter-based DI helps us to inject the dependency only when it is required, as opposed to requiring it at construction time.
+
+
+
